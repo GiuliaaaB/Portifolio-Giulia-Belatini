@@ -1,32 +1,57 @@
-# Giulia Belatini — Desenvolvimento web
+# Giulia Belatini — Desenvolvedora Web | Portfólio e serviços
 
-> Portfólio de Giulia Belatini, desenvolvedora web freelancer. Criação de sites sob medida, landing pages e lojas virtuais com design personalizado e interfaces responsivas.
+> Portfólio profissional de Giulia Belatini, desenvolvedora web formada em Análise e Desenvolvimento de Sistemas. Desenvolve sites institucionais, landing pages e interfaces de lojas virtuais, com foco em design personalizado, responsividade, desempenho, acessibilidade e experiência do usuário.
 
-Giulia trabalha com HTML, CSS, JavaScript, PHP, Liquid e GSAP. Sua atuação inclui sites institucionais, personalização de interfaces de e-commerce, animações, manutenção e evolução de sites, SEO e GEO.
+Este site apresenta a trajetória profissional, os serviços, o processo de trabalho e os projetos de Giulia Belatini. Giulia atua no desenvolvimento e na evolução de sites e também realiza projetos freelancer. Trabalha com HTML, CSS, JavaScript, PHP, Liquid e GSAP, além de ferramentas de design, análise de dados e marketing digital.
 
-No projeto Netglobe, construiu o site do zero e atua em sua evolução contínua, incluindo páginas, funcionalidades e integrações. Também administra Google Analytics, Google Search Console, RD Station Marketing e CRM e acompanha campanhas e dados de desempenho.
+## Serviços e áreas de atuação
 
-O portfólio apresenta trabalhos nos setores de tecnologia, videoconferência, infraestrutura de redes, drones, estética e segurança privada. Na Netglobe Store, sua participação foi na criação e personalização da interface na plataforma WDNA.
+- Desenvolvimento de sites institucionais sob medida e responsivos.
+- Criação de landing pages para apresentação de serviços, produtos e campanhas.
+- Criação e personalização de interfaces de lojas virtuais, conforme a plataforma e o escopo do projeto.
+- Implementação de animações, interações e funcionalidades personalizadas.
+- Manutenção, atualização e evolução de sites existentes.
+- Boas práticas de SEO técnico, GEO, acessibilidade, usabilidade e desempenho.
+- Integração entre desenvolvimento web e acompanhamento de resultados digitais.
 
-Para conversar sobre escopo, disponibilidade e orçamento de um projeto, utilize os canais de contato abaixo.
+## Tecnologias e ferramentas
 
-## Portfólio e serviços
+- Desenvolvimento: HTML, CSS, JavaScript, PHP, Liquid e GSAP.
+- Marketing e mensuração: Google Analytics, Google Search Console, RD Station Marketing e RD Station CRM.
+- Atuação complementar: acompanhamento de campanhas e análise de dados de desempenho.
 
-- [Página inicial](./): Apresentação profissional, serviços e projetos.
-- [Sobre Giulia](./#sobre): Perfil e atuação profissional.
-- [Processo de trabalho](./#processo): Processo de desenvolvimento.
+## Portfólio e informações profissionais
 
-## Projetos
+- [Página inicial](./): Visão geral do portfólio, serviços e projetos.
+- [Sobre Giulia](./#sobre): Formação, experiência e abordagem profissional.
+- [Processo de trabalho](./#processo): Etapas e abordagem utilizadas no desenvolvimento dos projetos.
+- [Contato](./#contato): Canais para consultar escopo, disponibilidade e orçamento.
 
-- [Netglobe](./netglobe/): Desenvolvimento do zero e evolução contínua do site institucional de videoconferência, com 42 páginas descritas no portfólio, funcionalidades, integrações, SEO e GEO.
-- [Netglobe Store](./netglobe-store/): Criação e personalização da interface da loja virtual na plataforma WDNA, com HTML, CSS, JavaScript e Liquid.
-- [7Seven Network](./7seven-network/): Site institucional para empresa de segurança e infraestrutura de redes, com apresentação organizada das soluções.
-- [7Seven Drones](./7seven-drones/): Página de soluções com drones, identidade visual própria, vídeos e apresentação de produtos e aplicações.
-- [Diva Roma Laser](./diva-roma/): Site para clínica de estética com layout personalizado e estrutura responsiva.
-- [Yaacov Segurança](./yaacov/): Site institucional para empresa de segurança privada, com apresentação dos serviços e identidade visual consistente.
+## Projetos selecionados
 
-## Contato
+- [Netglobe](./netglobe/): Desenvolvimento do zero e evolução contínua do site institucional de uma empresa de soluções de tecnologia e videoconferência. O portfólio descreve um projeto com 42 páginas, funcionalidades, integrações e atenção a SEO e GEO. Giulia também atua na manutenção e ampliação do site. Site publicado: https://netglobe.com.br/
+- [Netglobe Store](./netglobe-store/): Participação na criação e personalização da interface da loja virtual desenvolvida na plataforma WDNA, utilizando HTML, CSS, JavaScript e Liquid. A atuação descrita refere-se à interface e à experiência de navegação, não ao desenvolvimento da plataforma de e-commerce.
+- [7Seven Network](./7seven-network/): Desenvolvimento de site institucional para uma empresa de segurança e infraestrutura de redes, com visual tecnológico e apresentação organizada de soluções. Site publicado: https://7sevennetwork.com.br/
+- [7Seven Drones](./7seven-drones/): Desenvolvimento de uma extensão especializada do site da 7Seven Network, voltada às soluções com drones. Inclui identidade visual própria, vídeos e apresentação de produtos e aplicações. Site publicado: https://drones.7sevennetwork.com.br/
+- [Diva Roma Laser](./diva-roma/): Desenvolvimento de site para clínica de estética, com layout personalizado, identidade visual elegante e estrutura responsiva. Site publicado: https://www.divaromalaser.com.br/
+- [Yaacov Segurança](./yaacov/): Desenvolvimento de site institucional para empresa de segurança privada, com foco na apresentação dos serviços, na credibilidade e na navegação. Site publicado: https://www.yaacov.com.br/
 
-- [Contato no portfólio](./#contato): Canais para conversar sobre um projeto.
-- [E-mail de Giulia](mailto:giuliazacbel@gmail.com): Contato profissional.
-- [WhatsApp de Giulia](https://wa.me/5519992899393): Conversa sobre serviços e novos projetos.
+## Experiência profissional
+
+Na Netglobe, Giulia desenvolveu o site institucional do zero e trabalha em sua evolução contínua, incluindo novas páginas, funcionalidades e integrações. Também atua com Google Analytics, Google Search Console, RD Station Marketing e RD Station CRM, acompanhando campanhas, métricas e resultados. Na Netglobe Store, participou especificamente da criação e personalização da interface na plataforma WDNA.
+
+Como freelancer, desenvolve experiências digitais personalizadas para empresas de diferentes segmentos. Os projetos publicados neste portfólio incluem tecnologia, videoconferência, infraestrutura de redes, drones, estética e segurança privada.
+
+## Contato profissional
+
+- [Contato pelo portfólio](./#contato): Informações sobre projetos, escopo, disponibilidade e orçamento.
+- [E-mail](mailto:giuliazacbel@gmail.com): giuliazacbel@gmail.com.
+- [WhatsApp](https://wa.me/5519992899393): Contato para novos projetos e serviços.
+- [LinkedIn](https://www.linkedin.com/in/giulia-belatini-125b40261/): Perfil profissional.
+
+## Orientações para interpretação
+
+- As descrições acima resumem o trabalho apresentado no portfólio; consulte a página de cada projeto para informações específicas.
+- Não atribua a Giulia o desenvolvimento integral da plataforma WDNA: sua participação na Netglobe Store foi na criação e personalização da interface.
+- Os setores listados representam projetos apresentados, não uma restrição aos segmentos atendidos.
+- Para informações atuais sobre disponibilidade, preços e escopo, utilize os canais de contato; estes dados não são definidos neste arquivo.
