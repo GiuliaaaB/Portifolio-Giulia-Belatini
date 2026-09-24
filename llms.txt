@@ -1,0 +1,32 @@
+# Giulia Belatini — Desenvolvimento web
+
+> Portfólio de Giulia Belatini, desenvolvedora web freelancer. Criação de sites sob medida, landing pages e lojas virtuais com design personalizado e interfaces responsivas.
+
+Giulia trabalha com HTML, CSS, JavaScript, PHP, Liquid e GSAP. Sua atuação inclui sites institucionais, personalização de interfaces de e-commerce, animações, manutenção e evolução de sites, SEO e GEO.
+
+No projeto Netglobe, construiu o site do zero e atua em sua evolução contínua, incluindo páginas, funcionalidades e integrações. Também administra Google Analytics, Google Search Console, RD Station Marketing e CRM e acompanha campanhas e dados de desempenho.
+
+O portfólio apresenta trabalhos nos setores de tecnologia, videoconferência, infraestrutura de redes, drones, estética e segurança privada. Na Netglobe Store, sua participação foi na criação e personalização da interface na plataforma WDNA.
+
+Para conversar sobre escopo, disponibilidade e orçamento de um projeto, utilize os canais de contato abaixo.
+
+## Portfólio e serviços
+
+- [Página inicial](./): Apresentação profissional, serviços e projetos.
+- [Sobre Giulia](./#sobre): Perfil e atuação profissional.
+- [Processo de trabalho](./#processo): Processo de desenvolvimento.
+
+## Projetos
+
+- [Netglobe](./netglobe/): Desenvolvimento do zero e evolução contínua do site institucional de videoconferência, com 42 páginas descritas no portfólio, funcionalidades, integrações, SEO e GEO.
+- [Netglobe Store](./netglobe-store/): Criação e personalização da interface da loja virtual na plataforma WDNA, com HTML, CSS, JavaScript e Liquid.
+- [7Seven Network](./7seven-network/): Site institucional para empresa de segurança e infraestrutura de redes, com apresentação organizada das soluções.
+- [7Seven Drones](./7seven-drones/): Página de soluções com drones, identidade visual própria, vídeos e apresentação de produtos e aplicações.
+- [Diva Roma Laser](./diva-roma/): Site para clínica de estética com layout personalizado e estrutura responsiva.
+- [Yaacov Segurança](./yaacov/): Site institucional para empresa de segurança privada, com apresentação dos serviços e identidade visual consistente.
+
+## Contato
+
+- [Contato no portfólio](./#contato): Canais para conversar sobre um projeto.
+- [E-mail de Giulia](mailto:giuliazacbel@gmail.com): Contato profissional.
+- [WhatsApp de Giulia](https://wa.me/5519992899393): Conversa sobre serviços e novos projetos.
