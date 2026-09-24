@@ -7,7 +7,7 @@
 **Transformo ideias em experiências digitais.**  
 *Criando com propósito, desenvolvendo com atenção aos detalhes.*
 
-[![Portfólio](https://img.shields.io/badge/Conheça_meu_portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://SEU-PORTFOLIO-AQUI.com)
+[![Portfólio](https://img.shields.io/badge/Conheça_meu_portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giuliaaab.github.io/Portifolio-Giulia-Belatini/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-belatini-125b40261/)
 [![E-mail](https://img.shields.io/badge/Entre_em_contato-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliazacbel@gmail.com)
 
@@ -143,11 +143,30 @@ Desenvolvo soluções digitais personalizadas, de acordo com a identidade e os o
 
 ---
 
+## Sobre este repositório
+
+Este portfólio foi desenvolvido com **HTML, CSS, JavaScript e GSAP**.
+
+### Estrutura
+
+- `index.html`: página principal.
+- `css/`, `js/` e `assets/`: estilos, scripts e recursos visuais.
+- Pastas dos projetos: páginas com detalhes de cada trabalho.
+
+### Publicação
+
+O site é publicado pelo GitHub Pages a partir da raiz da branch `main`.
+Alterações enviadas para essa branch atualizam o site automaticamente.
+
+**[Acessar o portfólio](https://giuliaaab.github.io/Portifolio-Giulia-Belatini/)**
+
+---
+
 ## 📬 Contato
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://SEU-PORTFOLIO-AQUI.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giuliaaab.github.io/Portifolio-Giulia-Belatini/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-belatini-125b40261/)
 [![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliazacbel@gmail.com)
 
