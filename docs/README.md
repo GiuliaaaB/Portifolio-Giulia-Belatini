@@ -74,7 +74,7 @@ Tenho experiência com **HTML, CSS, JavaScript, PHP, Liquid e GSAP**, além de r
 
 *Conheça um pouco do que já construí.*
 
-### 💼 Netglobe
+### Netglobe
 
 **Site institucional • Desenvolvimento profissional**
 
@@ -82,7 +82,7 @@ Desenvolvimento do site institucional da Netglobe, um projeto com múltiplas pá
 
 🔗 **[Visitar site](https://netglobe.com.br/)**
 
-### 🚁 7Seven Drones
+### 7Seven Drones
 
 **Site especializado • Identidade visual • Vídeos**
 
@@ -90,7 +90,7 @@ Extensão do site da 7Seven Network, criada especialmente para apresentar a áre
 
 🔗 **[Visitar site](https://drones.7sevennetwork.com.br/)**
 
-### ✨ Diva Roma Laser
+### Diva Roma Laser
 
 **Site institucional • Design personalizado**
 
@@ -98,7 +98,7 @@ Site para clínica de estética, com layout personalizado, visual elegante e est
 
 🔗 **[Visitar site](https://www.divaromalaser.com.br/)**
 
-### 🔐 7Seven Network
+### 7Seven Network
 
 **Site institucional • Tecnologia • Responsividade**
 
@@ -107,7 +107,7 @@ Site institucional para empresa de segurança e infraestrutura de redes, com vis
 🔗 **[Visitar site](https://7sevennetwork.com.br/)**
 
 
-### 🛡️ Yaacov Segurança
+### Yaacov Segurança
 
 **Site institucional • Apresentação de serviços**
 
