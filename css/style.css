@@ -310,7 +310,7 @@
 .case-diva .case-shot img{width:100%;height:auto;max-height:none;aspect-ratio:auto}
 .case-diva .case-layout .case-overview p{font-size:18px;line-height:1.8}
 .case-diva .case-layout .case-overview h2{font-size:27px}
-.case-diva .case-hero .eyebrow{font-size:14px;margin-bottom:18px}
+.case-page .case-hero .eyebrow{font-size:14px;margin-bottom:18px}
 @media(max-width:800px){
   .case-diva .case-layout{grid-template-columns:minmax(0,1fr)}
   .case-layout{grid-template-columns:minmax(0,1fr);grid-template-areas:"copy" "prints";padding:32px 22px 24px;gap:32px}
@@ -911,4 +911,26 @@ body:not(.case-page) .header.is-scrolled{
 /* Keep decorative elements and animations inside the mobile viewport. */
 @media(max-width:1200px){
   html,body{max-width:100%;overflow-x:hidden;overflow-x:clip}
+}
+@media(max-width:700px){
+  .case-page .case-hero .eyebrow{justify-content:center;text-align:center}
+}
+
+/* Mobile project tags and gallery shortcuts. */
+.case-action-links{display:contents}
+.case-photos-link{display:none}
+@media(max-width:700px){
+  .case-page .case-action-links{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;width:100%}
+  .case-page .case-photos-link{display:inline-flex}
+  .case-netglobe .case-hero .tags,.case-diva .case-hero .tags,.case-drones .case-hero .tags{
+    display:grid;grid-template-columns:repeat(6,auto);gap:8px;width:max-content;max-width:100%;margin-inline:auto;justify-content:center;
+  }
+  .case-netglobe .case-hero .tags>span,.case-diva .case-hero .tags>span,.case-drones .case-hero .tags>span{grid-column:span 2;justify-self:center}
+  .case-netglobe .case-hero .tags>span:nth-child(n+4){grid-column:span 3}
+  .case-diva .case-hero .tags>span:first-child{grid-row:2;grid-column:1/-1}
+  .case-diva .case-hero .tags>span:nth-child(n+2){grid-row:1}
+  .case-drones .case-hero .tags>span:first-child{grid-row:2;grid-column:4/7}
+  .case-drones .case-hero .tags>span:nth-child(2){grid-row:2;grid-column:1/4}
+  .case-drones .case-hero .tags>span:nth-child(n+3){grid-row:1}
+  .case-page #fotos{scroll-margin-top:24px}
 }
