@@ -909,3 +909,6 @@ body:not(.case-page) .header.is-scrolled{
 .about-copy>p.about-knowledge,.about-skills{width:100%;max-width:none}
 .about .about-copy>p.about-knowledge{text-wrap:wrap}
 .about-skills>span{flex:0 0 auto;text-align:center}
+/* SVG symbols keep the same appearance on desktop and mobile. */
+.symbol-icon{display:inline-block;width:1em;height:1em;flex-shrink:0;vertical-align:-.125em}
+.orb-star .symbol-icon,.ticker b .symbol-icon,.process-star .symbol-icon{vertical-align:0}
