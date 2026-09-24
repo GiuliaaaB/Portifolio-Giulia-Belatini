@@ -923,3 +923,7 @@ body:not(.case-page) .header.is-scrolled{
 .orb-letter{display:block;line-height:.75}
 .orb .orb-star{display:flex;align-items:center;justify-content:center;margin:0;vertical-align:baseline;line-height:1}
 .orb-star .symbol-icon{display:block}
+/* Keep decorative elements and animations inside the mobile viewport. */
+@media(max-width:1200px){
+  html,body{max-width:100%;overflow-x:hidden;overflow-x:clip}
+}
