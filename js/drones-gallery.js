@@ -13,8 +13,14 @@
   let current = 0;
   let frame = 0;
   const position = index => slides[index].offsetLeft - slides[0].offsetLeft;
+  let resizeFrame = 0;
   function resize() {
-    track.style.height = `${slides[current].offsetHeight + 24}px`;
+    if (resizeFrame) return;
+    resizeFrame = requestAnimationFrame(() => {
+      resizeFrame = 0;
+      const height = `${slides[current].offsetHeight + 24}px`;
+      if (track.style.height !== height) track.style.height = height;
+    });
   }
   function update(index) {
     current = index;
@@ -63,8 +69,12 @@
     frame = requestAnimationFrame(() => {
       frame = 0;
       let nearest = 0;
+      let distance = Infinity;
+      const scrollLeft = track.scrollLeft;
+      const firstLeft = slides[0].offsetLeft;
       slides.forEach((slide, index) => {
-        if (Math.abs(position(index) - track.scrollLeft) < Math.abs(position(nearest) - track.scrollLeft)) nearest = index;
+        const delta = Math.abs(slide.offsetLeft - firstLeft - scrollLeft);
+        if (delta < distance) { nearest = index; distance = delta; }
       });
       if (nearest !== current) update(nearest);
     });

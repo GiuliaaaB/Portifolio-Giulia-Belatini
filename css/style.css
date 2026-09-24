@@ -398,22 +398,7 @@ body:not(.case-page) .header.is-scrolled{
 }
 
 
-@media(prefers-reduced-motion:no-preference){
-  html.motion-ready .hero-top>* ,
-  html.motion-ready .hero h1>span,
-  html.motion-ready .hero-skills>span,
-  html.motion-ready .orb-scene,
-  html.motion-ready .hero-bottom>*,
-  html.motion-ready .section-heading>*,
-  html.motion-ready .project>*,
-  html.motion-ready .about-art,
-  html.motion-ready .about-copy>*,
-  html.motion-ready .process-grid>div>*,
-  html.motion-ready .contact-top>*,
-  html.motion-ready .contact h2,
-  html.motion-ready .contact-bottom>*,
-  html.motion-ready .footer>*{opacity:0}
-}
+
 @media(max-width:700px){
   body:not(.case-page) .header{height:88px;padding-left:22px;padding-right:22px}
   .mobile-nav{
