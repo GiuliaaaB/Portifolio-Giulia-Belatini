@@ -8,7 +8,7 @@
 *Criando com propósito, desenvolvendo com atenção aos detalhes.*
 
 [![Portfólio](https://img.shields.io/badge/Conheça_meu_portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giuliaaab.github.io/Portifolio-Giulia-Belatini/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-belatini-125b40261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliabelatini/)
 [![E-mail](https://img.shields.io/badge/Entre_em_contato-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliazacbel@gmail.com)
 
 </div>
@@ -167,7 +167,7 @@ Alterações enviadas para essa branch atualizam o site automaticamente.
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-CB8DBB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giuliaaab.github.io/Portifolio-Giulia-Belatini/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-belatini-125b40261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A68ACB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuliabelatini/)
 [![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliazacbel@gmail.com)
 
 *Criando com propósito, desenvolvendo com atenção aos detalhes.* ✨
